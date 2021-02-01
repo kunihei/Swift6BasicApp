@@ -39,7 +39,7 @@ class ViewController: UIViewController {
         
         switch count {
         case 6:
-            tapCountLabel.text = "6です"
+            tapCountLabel.text = "66です"
             break
         case 10:
             tapCountLabel.text = "10です"
